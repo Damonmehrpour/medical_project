@@ -1,0 +1,13 @@
+"ID Number
+",Age,Gender ,"BMI, kg/m2",Hight/m,COPD GOLD,History of Heart Failure,Location,working place,mMRC,status of smoking,Pack History,Temperature,Respiratory Rate,Heart Rate,Blood pressure,Oxygen Saturation,Sputum,FEV1
+1,47,Male,21<BMI<25,1.65,1,Non,Madrid,1,0,3,0,Low,13,Higher,Normal,97,Normal,80% or above
+2,60,Female,<21 kg/m2,1.78,3,Non,Madrid,4,3,1,15,Normal,18,Higher,stage 1,95,Purulent,30–49%
+3,55,Female,30 ≥BMI <35 ,1.78,4,Yes,Madrid,3,4,1,60,High,24,Normal,Crisis,89,Purulent,29% or less
+4,78,Male,25≥ BMI <30,1.98,2,Non,Madrid ,1,1,2,37,Low,15,Higher,Normal,98,Normal,50–79%
+5,71,Male,30 ≥BMI <35,1.83,4,Yes,Madrid ,3,4,1,41,High,22,Lower,Crisis,88,Purulent,29% or less
+6,82,Female,≥35 kg/m2,1.61,3,Non,Madrid,4,3,1,64,High,20,Lower,stage 2,94,Purulent,30–49%
+7,79,Male,21<BMI<25 ,1.72,2,Non,Madrid,1,2,1,32,Normal,18,Higher,Elevate,95,Normal,50–79%
+8,69,Female,21<BMI<25  ,1.76,1,Non,Madrid ,1,0,3,0,Normal,13,Higher,Normal,96,Normal,80% or above
+9,45,Male,21<BMI<25 ,1.66,2,Yes,Madrid  ,1,1,2,20,Normal,15,Higher,Normal,97,Normal,50–79%
+10,88,Male,<21 kg/m2,1.86,3,Yes,Madrid ,2,3,1,54,High,21,Lower,Stage 2,93,Purulent,30–49%
+,,,,,,,,,,,,,, ,,,,
